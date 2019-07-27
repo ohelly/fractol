@@ -18,3 +18,15 @@ $ make
 $ ./fractol [fractol]
 ```
  Possible fractals are: ```Mandelbrot```, ```Julia```, ```Burningship```.
+## Pictures
+#### Main menu
+![Alt text](/screenshots/main_menu.jpg?raw=true "Main menu")
+#### Mandelbrot
+![Alt text](/screenshots/mandelbrot1.jpg?raw=true "Mandelbrot")
+![Alt text](/screenshots/mandelbrot2.jpg?raw=true "Mandelbrot")
+#### Julia
+![Alt text](/screenshots/julia1.jpg?raw=true "Julia")
+![Alt text](/screenshots/julia2.jpg?raw=true "Julia")
+#### Burning Ship
+![Alt text](/screenshots/burningship1.jpg?raw=true "Burningship")
+![Alt text](/screenshots/burningship2.jpg?raw=true "Burningship")
