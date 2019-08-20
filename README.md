@@ -8,6 +8,7 @@ Fractol is a project aimed at exploring fractals, mathematical sets that exhibit
 * Zoom and unzoom.
 * Different colors patterns.
 ## Compiling and running
+**Currently only tested on OS X.**
 ```sh
 $ make
 $ ./fractol
